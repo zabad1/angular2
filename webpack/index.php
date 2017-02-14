@@ -9,6 +9,6 @@
 		<title>Diceware Search</title>
 	</head>
 	<body>
-		<diceware-app>Loading&hellip;</diceware-app>
+		<angular2>Loading&hellip;</angular2>
 	</body>
 </html>
